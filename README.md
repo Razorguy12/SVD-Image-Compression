@@ -348,7 +348,21 @@ Matplotlib
 QRCode Library
 
 ------------------------------------------------------------
-
+	
+Add files via upload
+	
+Feb 26, 2026
+qr_part_11.png
+	
+Add files via upload
+	
+Feb 26, 2026
+qr_part_12.png
+	
+Add files via upload
+	
+Feb 26, 2026
+qr_part_13.png
 ## 🎯 Applications
 
 Image compression  
@@ -374,3 +388,6 @@ Cloud storage integration
 ## 👨‍💻 Author
 
 Mohammed Azhar Sait H
+Satyajit S
+Sai Akshay
+
